@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"c:\\\\Users\\\\TechBuddy\\\\Desktop\\\\LamidLearning\\\\src\\\\app\\\\\\(dashboard\\)\\\\instructor\\\\courses\\\\[id]\\\\edit\")",
+      "Bash(dir \"c:\\\\Users\\\\TechBuddy\\\\Desktop\\\\LamidLearning\\\\src\\\\app\\\\\\(dashboard\\)\\\\instructor\\\\courses\" /s /b)",
+      "Bash(Test-Path \"c:\\\\Users\\\\TechBuddy\\\\Desktop\\\\LamidLearning\\\\src\\\\app\\\\\\(auth\\)\\\\login\\\\page.tsx\")",
+      "Read(//c/Users/TechBuddy/Desktop/LamidLearning/src/app/\\(dashboard\\)/courses/**)",
+      "Read(//c/Users/TechBuddy/Desktop/LamidLearning/src/app/\\(dashboard\\)/programs/**)",
+      "Read(//c/Users/TechBuddy/Desktop/LamidLearning/src/app/\\(dashboard\\)/super-admin/tenants/**)",
+      "Bash(mkdir -p \"c:/Users/TechBuddy/Desktop/LamidLearning/src/app/\\(dashboard\\)/super-admin/tenants/[id]\")"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\TechBuddy\\Desktop\\LamidLearning\\src\\app\\(dashboard)\\instructor\\courses\\[id]",
+      "c:\\Users\\TechBuddy\\Desktop\\LamidLearning\\src\\app\\(dashboard)\\super-admin\\tenants"
+    ]
+  }
+}
