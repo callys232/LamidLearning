@@ -26,6 +26,7 @@ LearnByLamid/out/
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+tsconfig.tsbuildinfo
 
 # OS
 .DS_Store
